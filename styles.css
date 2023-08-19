@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #f5f5f5;
+}
+
+.bg1{
+	
+	padding:10px;
+	font-weight:bolder;
+	
+}
+.bg2{
+
+	background-color:white;
+	border:1px solid black;
+
+	margin-bottom:20px;
+
+}
+.bg3{
+	background-color:white;
+	border:1px solid black;
+}
+.john{
+	 font-style: italic;
+	 margin-left: 90%; 
+ }
+.jane{
+	 font-style: italic;
+	 margin-left: 90%; 
+ }
